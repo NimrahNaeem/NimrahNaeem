@@ -7,8 +7,8 @@ Gold Medalist CS graduate building multi-modal AI systems, explainable medical-i
 
 <p align="center">
   📍 Islamabad, Pakistan &nbsp;|&nbsp;
-  <a href="mailto:nimrahnaeem01@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/nimrah-naeem">🔗 LinkedIn</a>
+  📧 <a href="mailto:nimrahnaeem01@gmail.com">nimrahnaeem01@gmail.com</a> &nbsp;|&nbsp;
+  🔗 <a href="https://linkedin.com/in/nimrah-naeem">linkedin.com/in/nimrah-naeem</a>
 </p>
 
 ---
@@ -93,18 +93,16 @@ I'm a **Jr. AI Engineer at Trajan.ai**. I build scalable scraping and data pipel
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NimrahNaeem&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimrahNaeem&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimrahNaeem&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NimrahNaeem&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NimrahNaeem&theme=github_dark" alt="GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NimrahNaeem&theme=github_dark" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NimrahNaeem&column=6&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=NimrahNaeem&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
