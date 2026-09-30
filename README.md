@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Nimrah Naeem 👋</h1>
+<h1 align="center">Hi, I'm Nimrah Naeem </h1>
 <h3 align="center">Jr. AI Engineer · Machine Learning · Computer Vision · NLP</h3>
 
 <p align="center">
-Gold Medalist CS graduate building multi-modal AI systems, explainable medical-imaging models, and production-ready data pipelines.
+Gold Medalist 🥇 CS graduate building multi-modal AI systems, explainable medical-imaging models, and production-ready data pipelines.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Gold Medalist CS graduate building multi-modal AI systems, explainable medical-i
 
 I'm a **Jr. AI Engineer at Trajan.ai**. I build scalable scraping and data pipelines and design AI-driven workflows for data mapping, validation, and integration. My background covers deep learning for **medical imaging**, **NLP summarisation**, and **explainable AI (XAI)**, taken from research through to real-time mobile deployment.
 
-🎓 **BS Computer Science**, Institute of Space Technology (IST): **CGPA 3.96 / 4.00** · **2× Gold Medalist** (Highest CGPA & Best FYP)
+🎓 **BS Computer Science**, Institute of Space Technology (IST): **CGPA 3.96 / 4.00** · **2× Gold Medalist 🥇🥇** (Highest CGPA & Best FYP)
 
 ---
 
